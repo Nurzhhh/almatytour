@@ -1,1 +1,1 @@
-# almatytour
+# GoldenPeak
