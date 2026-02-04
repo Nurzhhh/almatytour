@@ -53,7 +53,7 @@ nav a::after {
     height: 2px;
     bottom: -4px;
     left: 0;
-    background-color: #2563eb;
+    background-color: #d97706;
     transition: width 0.3s ease;
 }
 
