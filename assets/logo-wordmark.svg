@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320">
+  <g transform="translate(20, 20) scale(2.8)">
+    <circle cx="50" cy="50" r="48" fill="#d97706"/>
+    <path d="M20 70 L40 40 L50 55 L65 30 L80 70 Z" fill="white"/>
+    <circle cx="75" cy="25" r="8" fill="#fbbf24"/>
+  </g>
+  <text x="350" y="215" font-family="Helvetica, Arial, sans-serif" font-size="140" font-weight="700" fill="#d97706">Golden Peak</text>
+</svg>
